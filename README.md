@@ -1,6 +1,6 @@
 # ModuloNCounter
 
-The code in the repository builds on the requirements of the Modulo Counter document as below:
+The code in the repository builds the following points upon the requirements from the Modulo Counter document available in the repository.
 
 Implement the classes ModuloNDigit and ModuloNCounter that provide the same functionality as the
 structs and their associated functions from the Modulo Counter Document. 
